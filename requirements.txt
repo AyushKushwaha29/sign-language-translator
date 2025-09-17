@@ -1,0 +1,18 @@
+# Core ML and Image Processing
+tensorflow==2.16.1
+mediapipe==0.10.14
+opencv-python==4.9.0.80
+numpy==1.26.4
+protobuf==4.25.3
+Pillow==10.4.0
+h5py==3.11.0
+
+# Web Server and Real-time Communication
+Flask==3.0.3
+Flask-SocketIO==5.3.6
+eventlet==0.35.2
+Flask-Cors==4.0.1
+
+# Text-to-Speech and Translation
+pyttsx3==2.90
+deep-translator==1.11.4
